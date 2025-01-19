@@ -1,4 +1,7 @@
-### Hi there 👋
+- 🔭 I’m currently working on rust projects.
+- 📫 n.suryap@gmail.com to reach me
+
+![Stats](https://github-readme-stats.vercel.app/api?username=cool-mist&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=merko&rank_icon=github)
 
 <!--
 **cool-mist/cool-mist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
