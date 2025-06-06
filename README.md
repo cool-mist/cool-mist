@@ -1,5 +1,6 @@
 - 🔭 I’m currently working on rust projects.
 - 📫 n.suryap@gmail.com to reach me
+- Migrating the projects away from github to https://git.neophyte.me
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=cool-mist&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=merko&rank_icon=github)
 
